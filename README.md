@@ -1,16 +1,16 @@
 <!-- GitHub Stats -->
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_title=true&include_all_commits=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ankit-0512-kumar&show_icons=true&theme=radical&hide_title=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 <!-- Contributions and Streak -->
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-0512-kumar&theme=radical" alt="Streak Stats" />
 </div>
 
 <!-- Most Used Languages -->
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-0512-kumar&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <!-- About Me Section -->
