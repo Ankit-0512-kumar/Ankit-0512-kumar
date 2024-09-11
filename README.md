@@ -5,7 +5,7 @@
 
 <!-- Contributions and Streak -->
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-0512-kuma&theme=radical" alt="Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-0512-kumar&theme=radical" alt="Streak Stats" />
 </div>
 
 <!-- Most Used Languages -->
