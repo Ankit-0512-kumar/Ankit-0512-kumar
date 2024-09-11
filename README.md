@@ -1,11 +1,11 @@
 <!-- GitHub Stats -->
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ankit-0512-kuma&show_icons=true&theme=radical&hide_title=true&include_all_commits=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ankit-0512-kumar&show_icons=true&theme=radical&hide_title=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 <!-- Contributions and Streak -->
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-0512-kumar&theme=radical" alt="Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-0512-kuma&theme=radical" alt="Streak Stats" />
 </div>
 
 <!-- Most Used Languages -->
