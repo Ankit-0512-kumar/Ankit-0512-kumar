@@ -29,7 +29,7 @@ Hello, I am Ankit Kumar, a seasoned Python developer & Machine Learning Eng. wit
  </div>
 
  <div align="center">
- <-- <a href="https://www.linkedin.com/in/Ankit-0512-kumar/" target="_blank">-->
+  <a href="https://www.linkedin.com/in/Ankit-0512-kumar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://Ankit-0512-kumar.github.io/" target="_blank">
