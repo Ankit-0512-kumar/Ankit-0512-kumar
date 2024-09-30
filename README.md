@@ -20,9 +20,9 @@ Hello, I am Ankit Kumar, a seasoned Python developer & Machine Learning Eng. wit
  
  🔭 I’m currently working on **A Software Project**
  
- 🌱 I’m currently learning **ML, Typescript**
+ 🌱 I’m currently learning **Machine Learning, Python**
 
-💬 Ask me about **Node.js, React, Kotlin... or anything here**itisaman28@gmail.com**
+💬 Ask me about **Machine Learning Algorithms, Object detection, Tensorflow... or anything here**ankitkumarftp.96@gmail.com**
 
 ⚡ Fun fact **I often enjoy solving puzzles and logic challenges for fun.**
 
