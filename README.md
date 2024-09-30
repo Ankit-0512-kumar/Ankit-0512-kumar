@@ -12,15 +12,15 @@
 
 Hello, I am Aman Modanwal, a seasoned full-stack web developer with experience at PT Communication in Greater Noida from December 2022 to the present. I specialize in JavaScript, TypeScript, and React, contributing to software development, coding, testing, and debugging. I am actively involved in open source projects, hackathons, and meetups, with my work showcased on GitHub and my personal website.
 
-<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://github.com/amanmodanwal28/amanmodanwal28/blob/main/aman2GIF.gif"> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanmodanwal28&label=Profile%20views&color=0e75b6&style=flat" alt="amanmodanwal28" /> </p>
+<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://github.com/Ankit-0512-kumar/Ankit-0512-kumar/blob/main/aman2GIF.gif"> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankit-0512-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="Ankit-0512-kumar" /> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
  
  🔭 I’m currently working on **A Software Project**
  
- 🌱 I’m currently learning **React, Typescript**
+ 🌱 I’m currently learning **ML, Typescript**
 
 💬 Ask me about **Node.js, React, Kotlin... or anything here**itisaman28@gmail.com**
 
@@ -29,10 +29,10 @@ Hello, I am Aman Modanwal, a seasoned full-stack web developer with experience a
  </div>
 
  <div align="center">
-  <a href="https://www.linkedin.com/in/amanmodanwal28/" target="_blank">
+  <a href="https://www.linkedin.com/in/Ankit-0512-kumar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://amanmodanwal28.github.io/" target="_blank">
+  <a href="https://Ankit-0512-kumar.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
