@@ -52,8 +52,7 @@ Hello, I am Ankit Kumar, a seasoned Python developer & Machine Learning Eng. wit
 ###
 
   <div align="center"><h3 align="center">Backend</h3> 
-<!--       <img src="https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="Express"> -->
-      <img src="[https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white](https://camo.githubusercontent.com/daabc6a16868214fd0e2215708abbce85a85c557584dd19b524dc4cbc299a659/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737461746973746963732d2532333135303435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d73746174697374696373266c6f676f436f6c6f723d7768697465)" align="center" alt="Stats">
+      <img src="https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="Express">
       <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="MongoDB">
       <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" align="center" alt="Node.js">
       <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="NPM">
