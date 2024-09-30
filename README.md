@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amanmodanwal28.amanmodanwal28" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ankit-0512-kumar.Ankit-0512-kumar" />
 
 <h1 align="center">
-    <a href="https://www.linkedin.com/in/amanmodanwal28/" target="_blank">
+    <a href="https://www.linkedin.com/in/Ankit-0512-kumar/" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ankit+Kumar!💻;" />
     <a/>    
 </h1>
@@ -10,7 +10,7 @@
 
 <br/>
 
-Hello, I am Aman Modanwal, a seasoned full-stack web developer with experience at PT Communication in Greater Noida from December 2022 to the present. I specialize in JavaScript, TypeScript, and React, contributing to software development, coding, testing, and debugging. I am actively involved in open source projects, hackathons, and meetups, with my work showcased on GitHub and my personal website.
+Hello, I am Ankit Kumar, a seasoned full-stack web developer with experience at PT Communication in Greater Noida from December 2022 to the present. I specialize in JavaScript, TypeScript, and React, contributing to software development, coding, testing, and debugging. I am actively involved in open source projects, hackathons, and meetups, with my work showcased on GitHub and my personal website.
 
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://github.com/Ankit-0512-kumar/Ankit-0512-kumar/blob/main/aman2GIF.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankit-0512-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="Ankit-0512-kumar" /> </p>
@@ -33,7 +33,7 @@ Hello, I am Aman Modanwal, a seasoned full-stack web developer with experience a
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://Ankit-0512-kumar.github.io/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -84,11 +84,11 @@ Hello, I am Aman Modanwal, a seasoned full-stack web developer with experience a
 <h2 align="center">⚡ Stats ⚡</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
-  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanmodanwal28&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" alt="readme stats" />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanmodanwal28&theme=react" alt="amanmodanwal28" /></p>
+  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ankit-0512-kumar&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" alt="readme stats" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-0512-kumar&theme=react" alt="Ankit-0512-kumar" /></p>
     </div>
 <div align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanmodanwal28&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 50%" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ankit-0512-kumar&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 50%" />
 </div>
 </div>
 </div>
@@ -103,10 +103,8 @@ Hello, I am Aman Modanwal, a seasoned full-stack web developer with experience a
 
 <div align="center">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href='https://ko-fi.com/V7V73C7NZ' target="_blank">
+  <img src='https://ko-fi.com/img/githubbutton_sm.svg' alt='Buy me a Coffee' width="200" height="40">
+</a>
 </div>
 
-<h1 align="center">
-  Thanks for visiting my profile
-</h1>
