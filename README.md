@@ -73,9 +73,9 @@ Hello, I am Ankit Kumar, a seasoned Python developer & Machine Learning Eng. wit
     <img src="https://img.shields.io/badge/Microsoft%20Excel-%217036A.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="40" alt="Microsoft Excel">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40" alt="Visual Studio Code">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub">
-    <img src="https://img.shields.io/badge/android%20studio-%2307405e.svg?style=for-the-badge&logo=android-studio&logoColor=white" align="center" alt="Android Studio">
-    <img src="https://img.shields.io/badge/slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="Slack">
-    <img src="https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white" align="center" alt="Apache">
+    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" align="center" alt="Chatgpt">
+    <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" align="center" alt="PowerBI">
+    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" align="center" alt="Jupyter Notebook">
 </div>
    <br/>
 
