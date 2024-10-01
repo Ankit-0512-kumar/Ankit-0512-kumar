@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ankit-0512-kumar.Ankit-0512-kumar" />
 
 <h1 align="center">
-    <a href="https://www.linkedin.com/in/Ankit-0512-kumar/" target="_blank">
+    <a href="https://www.linkedin.com/in/ankit-kumar-ba7358128" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ankit+Kumar!💻;" />
     <a/>    
 </h1>
