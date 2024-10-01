@@ -41,11 +41,12 @@ Hello, I am Ankit Kumar, a seasoned Python developer & Machine Learning Eng. wit
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
- <div align="center"><h3 align="center">Frontend</h3>
+ <div align="center"><h3 align="center">Frontend & Machine Learning Frameworks</h3>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
     <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
 <!--     <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript"> -->
-<!--      <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" align="center" alt="Kotlin"> -->
+     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" align="center" alt="Tensorflow">
+     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" align="center" alt="PyTorch">
 </div>
 <br/>
 
