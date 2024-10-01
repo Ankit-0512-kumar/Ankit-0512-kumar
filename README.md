@@ -56,9 +56,13 @@ Hello, I am Ankit Kumar, a seasoned Python developer & Machine Learning Eng. wit
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="center" alt="Python">
       <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="MongoDB">
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="MYSQL">
-      <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="NPM">
  </div>
-
+ ###
+ <div align="center"><h3 align="center">Data Analytics/Science Libraries</h3> 
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="center" alt="Python">
+      <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="MongoDB">
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="MYSQL">
+ </div>
  ###
 
   <div align="center"><h3 align="center">Tools</h3> 
