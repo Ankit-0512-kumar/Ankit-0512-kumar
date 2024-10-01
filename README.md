@@ -59,9 +59,13 @@ Hello, I am Ankit Kumar, a seasoned Python developer & Machine Learning Eng. wit
  </div>
  
  <div align="center"><h3 align="center">Data Analytics/Science Libraries</h3> 
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="center" alt="Python">
-      <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="MongoDB">
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="MYSQL">
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=whitenumpy-" align="center" alt="Pandas">
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" align="center" alt="Numpy">
+      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" align="center" alt="Matplotlib">
+     <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" align="center" alt="Keras">
+     <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" align="center" alt="OpenCV">
+     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" align="center" alt="sklearn">
+     <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" align="center" alt="Google Analytics">
  </div>
  
 
