@@ -76,6 +76,7 @@ Hello, I am Ankit Kumar, a seasoned Python developer & Machine Learning Eng. wit
     <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" align="center" alt="Chatgpt">
     <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" align="center" alt="PowerBI">
     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" align="center" alt="Jupyter Notebook">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" align="center" alt="Tableau">
 </div>
    <br/>
 
