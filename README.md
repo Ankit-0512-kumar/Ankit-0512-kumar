@@ -44,7 +44,7 @@ Hello, I am Ankit Kumar, a seasoned Python developer & Machine Learning Eng. wit
  <div align="center"><h3 align="center">Frontend</h3>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
     <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-    <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+<!--     <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript"> -->
 <!--      <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" align="center" alt="Kotlin"> -->
 </div>
 <br/>
@@ -54,7 +54,7 @@ Hello, I am Ankit Kumar, a seasoned Python developer & Machine Learning Eng. wit
   <div align="center"><h3 align="center">Backend</h3> 
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="center" alt="Python">
       <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="MongoDB">
-      <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" align="center" alt="Node.js">
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="MYSQL">
       <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="NPM">
  </div>
 
