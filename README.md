@@ -84,11 +84,11 @@ Hello, I am Ankit Kumar, a seasoned Python developer & Machine Learning Eng. wit
 
 ###
 
-<div align="center">
+<!--<div align="center">
   <h3 align="center">Current Learning Journey</h3>
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" align="center" alt="React">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" align="center" alt="TypeScript">
-</div>
+</div> -->
 <br/>
 
 <br/>
