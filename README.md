@@ -20,7 +20,7 @@ Hello, I am Ankit Kumar, a seasoned Python developer & Machine Learning Eng. wit
  
  🔭 I’m currently working on **A Software Project**
  
- 🌱 I’m currently learning **Machine Learning, Python**
+ 🌱 I’m currently learning **Deep Learning,Time Series Forecasting Python**
 
 💬 Ask me about **Machine Learning Algorithms, Object detection, Tensorflow... or anything here**ankitkumarftp.96@gmail.com**
 
