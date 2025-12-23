@@ -6,7 +6,7 @@
     <a/>    
 </h1>
 
-<h3 align="center">A passionate software developer from Noida</h3>
+<h3 align="center">A passionate AI/ML Engineer from Noida</h3>
 
 <br/>
 
